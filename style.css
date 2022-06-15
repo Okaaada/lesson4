@@ -54,6 +54,7 @@ a {
 main {
   background-color: #ecfcdf;
   padding: 10px 40px 40px 40px;
+  flex: 1;
 }
 
 .main-title {
@@ -114,7 +115,7 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-}
+  }
 
   .footer-text {
   color: #fff;
